@@ -16,23 +16,23 @@ React.js discussion
 ### General Discussion:
 
 * Discussion about various networking gear.  
- * GS horrendous experience with Netgear Customer Service
- * Now using "Amplify" router - likes
- * Arlo webcam
+  * GS horrendous experience with Netgear Customer Service
+  * Now using "Amplify" router - likes
+  * Arlo webcam
 * React.js
- * Discussion background - Angular and Backbone
- * Where to go with this - definitely some local interest, not sure about broader interest
- * maybe a mini-hackfest - pick a project and run with it:
- * Projects?
-  * Dining commons (GS)?
- * Locations?
-  * GS can schedule DeAnza
-  * IL can possibly schedule Library Collaboratory space
+  * Discussion background - Angular and Backbone
+  * Where to go with this - definitely some local interest, not sure about broader interest
+  * maybe a mini-hackfest - pick a project and run with it:
+  * Projects?
+    * Dining commons (GS)?
+  * Locations?
+    * GS can schedule DeAnza
+    * IL can possibly schedule Library Collaboratory space
 * various side discussions about where technology is headed - cloud based services:
- * serverless - ie: AWS Lambda (MF)
- * more UI and Data on client - served via APIs
- * firebase - storage/db + api (IL)
- * management/maintenance implications of those changes
+  * serverless - ie: AWS Lambda (MF)
+  * more UI and Data on client - served via APIs
+  * firebase - storage/db + api (IL)
+  * management/maintenance implications of those changes
 * ansible
 * dependency management (both web and non-web)
 * lessened burden with cloud deployment?  more time to focus on dev goodies?
