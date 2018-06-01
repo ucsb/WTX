@@ -9,7 +9,8 @@ Third Tuesday of the month, at 10:00am in the Ellison 6840 Conference Room.
 WTX meeting announcements are distributed here and via the WTX Mail List.  Will likely be shifted to Google Groups soon.
 
 ## Current Co-Chairs:
-Aaron Martin & Brian Wolf.
+* Aaron Martin
+* Brian Wolf
 
 ## History and WTX Heritage: 
 The WTX was transformed from the Drupal Users Group (DUG). That group's expanding focus on technologies not directly related to Drupal, prompted the group to "morph" into it's new incarnation.
