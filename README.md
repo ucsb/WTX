@@ -14,7 +14,7 @@ WTX meeting announcements are distributed here and via the WTX Mail List.  Will 
 
 ## This repo:
 The following is the loose structure of this repo:
-* archive - content archived from the old it.ucsb.edu site which is being retired and re-incarnated for a different purpose.
+* [archives](archive) - content archived from the old it.ucsb.edu site which is being retired and re-incarnated for a different purpose.
 * [meetings](./meetings) - going forward meeting pages will be kept here.
 
 ## History and WTX Heritage: 
