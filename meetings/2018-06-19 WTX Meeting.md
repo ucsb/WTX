@@ -12,6 +12,22 @@ WTX Monthly meeting.
 TBD
 
 ## Agenda:
+* membership:
+  * currently have a request from a non-ucsb person
+    * do not see any affiliation
+    * is there a benefit to having a non-affiliate?
+    * are we comfortable with a non-UC member seeing our traffic?
+* discuss approach to content using github
+  * what is our expected ettiquette?
+    * do we want to do things via push requests to co-chairs?
+* discuss approaches to hosting content that is not meant for public consumption.
+  * do we have much of that?
+  * maybe utilize box.com?
+    * create functional account
+    * provide link to box functional account from github
+* migrate from mailman (lists.noc.ucsb.edu) to google groups?
+  * should we make the jump?
+    * would likely make scheduling easier, more automated although I (AM) do not have experience with that :-)
 
 ## Notes:
 * Item 1
