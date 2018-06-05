@@ -22,6 +22,7 @@ TBD
   * what is our expected ettiquette?
     * do we want to do things via push requests to co-chairs?
   * Is everyone OK with the structure I (AM) has started developing?
+    * What changes should we make?
 * discuss approaches to hosting content that is not meant for public consumption.
   * do we have much of that?
   * maybe utilize box.com?
