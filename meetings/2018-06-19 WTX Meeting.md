@@ -1,6 +1,12 @@
 # 2018-06-19 WTX Meeting
 ## Date and Time: Tue Jun 19, 2018 - 10:00am - 11:00am
 ## Location: Ellison 6840
+## Description:
+WTX Monthly meeting.
+
+### Current WTX Co-Chairs:
+* Aaron Martin
+* Brian Wolf
 
 ## Attendees:
 TBD
