@@ -2,7 +2,7 @@
 ## Date and Time: Tue Jun 19, 2018 - 10:00am - 11:00am
 ## Location: Ellison 6840
 
-#  WTX Meeting  &nbsp;&nbsp;<span>[*Return to Meetings*](./)</span>
+#  WTX Meeting  &nbsp;&nbsp;<span style="font-size: 8pt;">[*Return to Meetings*](./)</span>
 ## Attendees:
 TBA
 
