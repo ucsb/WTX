@@ -14,9 +14,10 @@ TBD
 ## Agenda:
 * membership:
   * currently have a request from a non-ucsb person
-    * do not see any affiliation
+    * do not see any affiliation to UCSB (or UC for that matter)
     * is there a benefit to having a non-affiliate?
     * are we comfortable with a non-UC member seeing our traffic?
+    * such a member might not have access to all material (see discussion topic below)
 * discuss approach to content using github
   * what is our expected ettiquette?
     * do we want to do things via push requests to co-chairs?
