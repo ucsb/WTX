@@ -11,49 +11,7 @@
 import sys
 import calendar
 from datetime import date,datetime
-#import datetime
 from dateutil.rrule import *
-# from dateutil.parser import parse
-
-def unUsed():
-    # this yields True or False depending on if today matches the criteria
-    def is_nth_weekday(daynum, nth):
-        if date(date.today().year, date.today().month, 1).weekday() == daynum:
-            nth = nth - 1
-        return date.today() == calendar.Calendar(daynum).monthdatescalendar(
-            date.today().year,
-            date.today().month
-        )[nth][0]
-
-    print is_nth_weekday(4,1)
-
-    # But I want something a bit different.  Want to generate a list of
-    # of the third tuesday for the next 6 months.
-    # So we want to start off with getting previous month and starting from there.
-
-    # Here is one way which looks pretty good, but someone said that it didn't work for 2013-03-31
-    import datetime
-
-    today=datetime.date.today()
-    first=today.replace(day=1)
-    lastmonth=first - datetime.timedelta(days=1)
-    print lastmonth.strftime("%Y%m")
-
-
-
-    print "future months:"
-    for r in range(0,6):
-        futm = lastmonth + dateutil.relativedelta.relativedelta(months=r)
-        print futm.strftime("%Y%m")
-
-    # attempting to use rrule
-    #from dateutil.rrule import *
-    #from dateutil.parser import *
-    #from datetime import *
-    nextTen=list(rrule(MONTHLY, count=10, byweekday=TU(3),dtstart=parse("20180105T090000")))
-    print nextTen
-    for n in nextTen:
-        print n.strftime("%Y-%m-%d")
 
 def genMeetingTemplate(date):
     dt = datetime.strptime(date,"%Y-%m-%d")
@@ -94,7 +52,7 @@ This page initially generated from a template using `wtx` python script availabl
 def genList():
     print "Following is a list of dates for the next 10 WTX meeting dates (3rd Tuesday of every month):"
     import dateutil.relativedelta
-    now = datetime.datetime.now()
+    now = datetime.now()
     lastmonth=now + dateutil.relativedelta.relativedelta(months=-1)
 
     # and this is pretty much the winner, coupled with the one from above to get the start date!!
@@ -107,8 +65,13 @@ def genList():
     print ""
     print "Provide one of those as an argument to this command to generate a github markdown meeting template for the specified meeting date."
 
+################################################################################
+# Main
+################################################################################
+
+# decide what to do based on number of arguments
+# overly simplistic at this point and no error checking/data validation performed
 if len(sys.argv) > 1:
-    #print "ARGC",len(sys.argv)
     genMeetingTemplate(sys.argv[1])
 else:
     genList()
