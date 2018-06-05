@@ -3,7 +3,7 @@
 ## Location: Ellison 6840
 
 #  WTX Meeting 
-[Return](tree/master/meetings)
+[Return](./)
 ## Attendees:
 TBA
 
