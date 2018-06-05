@@ -3,7 +3,7 @@
 ## Location: Ellison 6840
 
 ## Attendees:
-TBA
+TBD
 
 ## Agenda:
 
