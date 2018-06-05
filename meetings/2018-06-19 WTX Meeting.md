@@ -3,7 +3,7 @@
 ## Location: Ellison 6840
 
 #  WTX Meeting 
-[../](Return to Basedir)
+[Return](../)
 ## Attendees:
 TBA
 
