@@ -21,7 +21,8 @@ TBD
 * Status of list migration to google groups
   * wtx@it.ucsb.edu proposed by SL
 * ReactJS group report
-  * next schedule meeting
+  * summary of activities from last meeting
+  * next scheduled meeting?
 * LSCG (BW) now has a distro of their Drupal 8 Lab framework
   * Managing/Maintaining a drupal 8 install
     * strategies to manage such a distro 
