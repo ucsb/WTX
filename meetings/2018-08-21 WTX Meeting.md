@@ -14,10 +14,9 @@ TBD
 
 ## Agenda:
 * Welcome new members
-  * Joshua Maddox 
-    * CEO https://www.95visual.com
-    * https://www.linkedin.com/in/joshuakmaddux/
-    * Drupal Development team that built TMP departmental website - https://tmp.ucsb.edu
+  * Joshua Maddox - https://www.linkedin.com/in/joshuakmaddux/
+    * CEO https://www.95visual.com - a Drupal Development company based in Santa Clarita
+    * Designed and built TMP departmental website - https://tmp.ucsb.edu
 * Status of list migration to google groups
   * wtx@it.ucsb.edu proposed by SL
 * ReactJS group report
