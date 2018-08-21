@@ -75,6 +75,8 @@ Joshua M., Aaron M., Guylene G., Denise S., Gary S., Brian W.
 
 ## Links:
 * https://github.com/UCSantaBarbara/JsWorkingGroupDemo - Last weeks React efforts
+* https://uccsc.ucdavis.edu - 2018 UCCSC meeting
+* https://www.parrotsec.org - debian flavor secure linux
 
 ## Additional Information:
 This page initially generated from a template using `wtx` python script available in this repo.
