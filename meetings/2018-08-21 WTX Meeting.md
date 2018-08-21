@@ -35,6 +35,9 @@ Joshua M., Aaron M., Guylene G., Denise S., Gary S., Brian W.
 
 ## Notes:
 * github v bitbucket discussion JM and AM
+* co-chair elections
+  * GS interested - self nominates
+  * brought up issue of changing timespan
 * Invited guest: JM
   * Introductions - departments + specialties
 * OS Discussions - flavors of linux - discussions of pedigrees
