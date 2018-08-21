@@ -14,8 +14,11 @@ TBD
 
 ## Agenda:
 * co-chair elections
+  * Had an email mention about that
+  * Think we touched on that at one of the meetings
   * Overdue
-  * sorting out what spot is up for renewal
+     * Do we want to shift them from the new year time frame?  Always busy just before holidays, harder to meet, etc...
+  * Brian's term was officially up as of Jan
 * Welcome new members
   * Joshua Maddux - https://www.linkedin.com/in/joshuakmaddux/
     * CEO https://www.95visual.com - a Drupal Development company based in Santa Clarita
