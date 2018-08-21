@@ -13,6 +13,9 @@ WTX Monthly meeting.
 TBD
 
 ## Agenda:
+* co-chair elections
+  * Overdue
+  * sorting out what spot is up for renewal
 * Welcome new members
   * Joshua Maddux - https://www.linkedin.com/in/joshuakmaddux/
     * CEO https://www.95visual.com - a Drupal Development company based in Santa Clarita
