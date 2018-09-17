@@ -27,6 +27,8 @@ TBD
       * unanimous?
       * 2/3rds?
       * simple majority?
+* Pantheon overview/discussion
+* LSCG Drupal 8 framework workflow
 
 ## Notes:
 * Item 1
