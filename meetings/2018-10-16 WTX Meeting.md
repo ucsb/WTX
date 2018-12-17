@@ -7,7 +7,7 @@ WTX Monthly meeting.
 
 ### Current WTX Co-Chairs:
 * Aaron Martin
-* Brian Wolf
+* Gary Scott
 
 ## Attendees:
 TBD
