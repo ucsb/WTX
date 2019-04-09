@@ -11,7 +11,7 @@ WTX Monthly meeting.
 * Gary Scott
 
 ## Attendees:
-TBD
+Eric R., Gary S., Aaron M.
 
 ## Agenda:
 
@@ -20,7 +20,16 @@ TBD
 * General Discussion
 
 ## Notes:
+* Redux - On way out?
+* Redux context
+* etckeeper - allows you to make your /etc a git repo
+  * git push -u origin
+  * git set_url
+  * git set remote
+* using hexo
 
+## Action Items
+* Contact Shea about WTX group
 
 ## Links:
 

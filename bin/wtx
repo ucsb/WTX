@@ -19,7 +19,9 @@ def genMeetingTemplate(date):
     meetingTime="10:00am - 11:00am"
     location="Ellison 6840"
 
-    print "Save the following template to a file named: "+date+" WTX Meeting.md"
+    template_name=date+"_WTX_Meeting.md"
+    print "Save the following template to a file named: "+template_name
+    print "Can do this via: bin/wtx "+date+" > meetings/"+template_name
     print "#",date,"WTX Meeting"
     print "## Date and Time:",datestr,"-",meetingTime
     print "## Location:",location
