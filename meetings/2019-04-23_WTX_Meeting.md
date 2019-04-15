@@ -1,7 +1,7 @@
 Save the following template to a file named: 2019-04-16_WTX_Meeting.md
 can do this via: wtx 2019-04-16 > 2019-04-16_WTX_Meeting.md
-# 2019-04-16 WTX Meeting
-## Date and Time: Tue Apr 16, 2019 - 10:00am - 11:00am
+# 2019-04-23 WTX Meeting
+## Date and Time: Tue Apr 23, 2019 - 10:00am - 11:00am
 ## Location: Ellison 6840
 
 ## Description:
