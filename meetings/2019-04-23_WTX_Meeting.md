@@ -15,8 +15,10 @@ WTX Monthly meeting.
 TBD
 
 ## Agenda:
-* Shen Liu - Using Google Data Suite at LSAA
+* Shen Liu (LSAA) - Using Google Data Studio
 * Google Javascript APIs - how to deal with current billing
+* Drupal 7-8 EOL - 2020-11
+* UCSB adoption of Pantheon
 
 
 ## Notes:
