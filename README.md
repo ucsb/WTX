@@ -10,7 +10,7 @@ WTX meeting announcements are distributed here and via the WTX Mail List.  Will 
 
 ## Current Co-Chairs:
 * Aaron Martin
-* Brian Wolf
+* Gary Scott
 
 ## This repo:
 The following is the loose structure of this repo:
