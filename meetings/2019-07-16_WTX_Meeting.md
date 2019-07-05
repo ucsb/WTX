@@ -1,11 +1,11 @@
-Save the following template to a file named: 2019-07-16_WTX_Meeting.md
-Can do this via: bin/wtx 2019-07-16 > meetings/2019-07-16_WTX_Meeting.md
 # 2019-07-16 WTX Meeting
 ## Date and Time: Tue Jul 16, 2019 - 10:00am - 11:00am
 ## Location: Ellison 6840
 
 ## Description:
 WTX Monthly meeting.
+
+Possibly Cancelled
 
 ### Current WTX Co-Chairs:
 * Aaron Martin
