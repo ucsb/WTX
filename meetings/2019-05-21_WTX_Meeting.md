@@ -1,5 +1,3 @@
-Save the following template to a file named: 2019-05-21_WTX_Meeting.md
-Can do this via: bin/wtx 2019-05-21 > meetings/2019-05-21_WTX_Meeting.md
 # 2019-05-21 WTX Meeting
 ## Date and Time: Tue May 21, 2019 - 10:00am - 11:00am
 ## Location: Ellison 6840

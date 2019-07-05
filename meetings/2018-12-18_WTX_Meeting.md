@@ -10,18 +10,25 @@ WTX Monthly meeting.
 * Gary Scott
 
 ## Attendees:
-TBD
+Attendees:  Denise Saludres, Gary Scott, Aaron Martin, Ian Lessing (late)
 
 ## Agenda:
 
 ## Notes:
-* Item 1
-* Item 2
-  * 2.1 - subitem 1
-  * 2.2 - subitem 2
-    * 2.2.1 - sub-subitem
+* Gary Scott shows LDAP 
+* LDAP standard field naming?  sort of.
+   * SN - surname (lastname)
+   * CN
+   
+   CAS apereo
 
-## Links:
+   Aperio.org
 
-## Additional Information:
-This page initially generated from a template using `wtx` python script available in this repo.
+  www.identity.ucsb.edu/technologists/data_dictionary/
+
+Talkded about how CAS authentication doesn't require specific permission by the provider.
+
+Softterra LDAP Browser <-- windows LDAP client.
+
+
+
