@@ -12,17 +12,24 @@ WTX Monthly meeting.
 * Gary Scott
 
 ## Attendees:
-TBD
+Aaron Martin, Ian Lessing
 
 ## Agenda:
+None
 
 ## Notes:
-* Item 1
-* Item 2
-  * 2.1 - subitem 1
-  * 2.2 - subitem 2
-    * 2.2.1 - sub-subitem
-
+* Lando - cross platform docker framework/tool
+  * Talked a bit about how docker is MOSTLY cross platform+ image compatibility
+  * Recipes from bitnami
+  * Pantheon uses lando, so works well for workflow
+* Network outage discussion, mitigation
+* Hugo –based on Golang
+  * Worlds fastest framework for building websites
+    * Builds static sites with low resource utilization
+  * We compared to Jekyll (ruby based)
+* Aaron not around for July WTX
+  * Will send out email about cancelling or someone else chairing
+  
 ## Links:
 
 ## Additional Information:
