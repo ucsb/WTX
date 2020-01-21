@@ -13,6 +13,8 @@ WTX Monthly meeting.
 TBD
 
 ## Agenda:
+* JSON presentation (AM)
+* Co-Chair Elections 
 
 ## Notes:
 * Item 1
