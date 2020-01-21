@@ -15,6 +15,11 @@ TBD
 ## Agenda:
 * JSON presentation (AM)
 * Co-Chair Elections 
+* Github - UCSB
+  * Associating teams and repos?
+  * For example:
+    * the working copy of this repo that I have on my desktop now complains if I try to push
+    * navigating to this repo now jumps from my personal to UCSB SSO, works well, but not sure how to move/reassociate some repos
 
 ## Notes:
 * Item 1
