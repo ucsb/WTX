@@ -13,7 +13,6 @@ WTX meeting announcements are distributed here and via the WTX Mail List. The ma
 ## Current Co-Chairs:
 
 - Aaron Martin
-- Gary Scott
 
 ## This repo:
 
