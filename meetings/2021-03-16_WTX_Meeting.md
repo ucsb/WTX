@@ -12,7 +12,10 @@ WTX Monthly meeting.
 * Gary Scott
 
 ## Attendees:
-TBD
+* Aaron M.
+* David G.
+* Ryan V.
+* Mihoko J.
 
 ## Agenda:
 * Google Sheets interactive tasksprint grid
